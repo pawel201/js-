@@ -17,3 +17,4 @@ let state= null //enpty
 
 
 console.log(typeof age)
+
