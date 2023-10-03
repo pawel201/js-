@@ -29,7 +29,15 @@
 
    //conversion in string
 
-   let c=33
-   let c1=String(c)
-   console.log(c1)
-   console.log(typeof c1)
+   // let c=33
+   // let c1=String(c)
+   // console.log(c1)
+   // console.log(typeof c1)
+
+
+   //////////////// Operations/////////
+
+   console.log(1+"1")  // it gives -> 11
+   console.log("1"+1)  // it also gives -> 11
+   console.log(1+1+"2")  // it gives -> 22
+   console.log("2"+2+2) // it gives -> 222
